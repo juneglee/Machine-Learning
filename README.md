@@ -1,2 +1,2 @@
-# Data-Science
-NLP, NLU, ML, Statistics &amp; Probability
+# Machine Learning
+Machine Learning, Statistics &amp; Probability
